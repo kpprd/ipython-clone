@@ -4,6 +4,8 @@ from flask import request
 from flask import render_template
 from feedline import feedline
 
+# Oystein Kapperud, 2015
+
 """
 Initiates a python web interface using flask.
 """
