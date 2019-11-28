@@ -5,6 +5,9 @@ from feedline import return_counter
 import sys
 import os
 import cPickle as pickle
+
+# Oystein Kapperud, 2015
+
 def prompt():
     """
     Initiates a basic python interface.
