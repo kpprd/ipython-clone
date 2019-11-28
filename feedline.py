@@ -10,6 +10,8 @@ from StringIO import StringIO
 import cPickle as pickle
 import inspect
 
+# Oystein Kapperud, 2015
+
 def feedline(input_string):
     """
     Executes a string as python code.
